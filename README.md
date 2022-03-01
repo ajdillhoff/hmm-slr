@@ -1,8 +1,8 @@
 # hmm-slr
 
-This was my final project for a graduate machine learning course.
+This was my final project for a graduate machine learning course in 2015.
 I was interested in implementing HMMs and EM for single-handed sign language recognition.
-I based the code off of Rabiner's tutorial paper.
+I based the code off of [Rabiner's tutorial paper.](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf).
 
 To run the experiments, simply open the `runExperiments.m` file to view and
 change parameters and then run the script. It will train N models using 2
